@@ -26,4 +26,8 @@ pip install -r requirements.txt
 - 필수 항목
     - `Dataset/` : 환자 정보가 포함된 파일
     -  `.env` : LLM 모델의 API Key
+- 프로그램 실행
+```bash
+python main.py
+```
 
