@@ -22,6 +22,7 @@ pip install -r requirements.txt
 
 ### Execution Requirments
 프로젝트를 정상적으로 실행하기 위해서는 **75번 서버 내의 파일을 별도로 복사** 해야함
+- 폴더 경로 : Documents/Seonhyeong/Disaster_Chatbot
 - 필수 항목
     - `Dataset/` : 환자 정보가 포함된 파일
     -  `.env` : LLM 모델의 API Key
